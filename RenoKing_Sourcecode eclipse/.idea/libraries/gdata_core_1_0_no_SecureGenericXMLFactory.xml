@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gdata-core-1.0-no-SecureGenericXMLFactory">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TheRenoKingV1.0/libs/gdata-core-1.0-no-SecureGenericXMLFactory.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/gson-2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.1_70a05558f34f5ec3a5630013dff6d9ec07b1bbed/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/google-api-client-1.19.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a2d25cf954cc73fa203ec659c33b5c4ce9dd43e1">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-1.19.1_520434c6b9cae5721ef8f8edc925f7d1a78c6d56/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/google-oauth-client-1.19.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2fed10f69dc8b06e174fe0ed39de04acd50c6078">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/google-oauth-client-1.19.0_058f51be0f46bf2c9ca38f666decb198334c0e51/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/exploded-aar/RenoKing_Sourcecode eclipse.Library_project/google-play-services_lib/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d265790f89b0f94aabe25cb6ba7714f6a18d2e25">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_142fcf96055492a75363a3688c9ef2ddc1c6f425/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/google-api-services-calendar-v3-rev112-1.19.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2ea06f7be97c3d36dfe4fe43b7b7b2f41fe181ed">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-services-calendar-v3-rev112-1.19.1_9e719350d1f883f8b196ce6da255c63fb69d3be0/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/google-http-client-1.19.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2073071a1b3d0aba693c8c786a137c0a67eee25b">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-1.19.0_f08b50c875a0e2c308493ff462106de98a906c10/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/httpmime-4.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f6b9ce4485869cc314171c554a436e6121783fbe">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1_4bf7fdbd10d1bd8669a3684a667b4b2eeddc7da1/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/libphonenumber-5.8.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="20dbdcb6cfd201af345c1ba9fc2a164a4d532c79">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/libphonenumber-5.8_6b03b2ca1a04eb33f45dab40bdf8c18ec3c50a6e/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/google-http-client-gson-1.19.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8b2e63d5e0da3515881e46c7ddc7f91d311b9e06">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-gson-1.19.0_42a9d0c36c2eea07a4b7b42efde5b2c4a4832441/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/org.apache.commons.codec.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.commons.codec_7929c1dad9d1a81f877541fbc5dafa265284aff3/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/signpost-commonshttp4-1.2.1.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="731e05de30cfeb1f41d417f886277f9597fe0f36">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/signpost-commonshttp4-1.2.1.2_0776cbbb7a6f350a7daddcb29eaa57c1b9428611/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/guava-r07.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="631eac765340771c5cc98d87e943886277c7221b">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/guava-r07_ae4a064971d86b73d52eda20800a9bc5cdb553cf/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="378da48db759dc4545929100aa9d68a2ba0fb208">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_05827de8cc12fb3c10ef1ab527736e4b742f9222/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/android-support-v4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_a91cd372db44f4b2ff068166379f683273ddc564/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6f288d654af6961b868e432f56922530326d0e95">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d1618169b3d4518a2ca84d09527296821940e8d7/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/sendmelogs-0.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1bebd735266f0240380d434b71311c797e7110f1">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/sendmelogs-0.1_f65cee6d18dfa5a08c4b807f871cad4d5fcb7e8c/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/acra-4.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/acra-4.4.0_1ef078f4e1150b6add5d060c271560093c8bb51f/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/google-http-client-android-1.19.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6c6feaf5b425588deeff573751e804ab8112297d">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-android-1.19.0_1da81feb8be6de624bdec15f15e78e73f3e61184/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/gdata-core-1.0-no-SecureGenericXMLFactory.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="58dc63642fb3ecf5b0c22537a0c5c2bf5ed469af">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/gdata-core-1.0-no-SecureGenericXMLFactory_7aae15bb9bf58a0fe44ce13b405249edcc5615b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/gcm.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c62336e408d6dc3998013f3a4419f1895ad61b6b">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/gcm_9e2efb6aeeb382678c35d4beba1e33929ed9c150/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/google-api-client-android-1.19.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9ca854a50939c055dd2ed6f56b87faed655d4f84">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-android-1.19.1_f894036221e0212c1a8944ab69535144387c75ac/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/jsr305-1.3.9_9157ecb16ed4b6ebbf9d61fb2d2232480f6a0413/classes.dex" />
+    </item>
+    <item
+        jar="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/libs/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/victor/programming/git/bixlabs/reno_king/android_app/RenoKing_Sourcecode eclipse/TheRenoKingV1.0/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-core-2.1.3_9994e38c2dd7bcd710de566e18e88f1592336e56/classes.dex" />
+    </item>
+
+</items>
