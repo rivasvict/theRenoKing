@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_color">#7E1B1C</color>
+    <color name="blue">#326AF7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#B70000</color>
+    <color name="green">#228200</color>
+    <color name="title_color">#6F0C0D</color>
+    <color name="transparent">#00000000</color>
+    <color name="axis_color">#494949</color>
+    <color name="grey">#808080</color>
+
+</resources>

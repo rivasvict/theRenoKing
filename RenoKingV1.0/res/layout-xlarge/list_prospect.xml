@@ -1,0 +1,179 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/top_bar"
+        android:gravity="center_vertical"
+        android:padding="10sp" >
+
+        <ImageView
+            android:id="@+id/statistics"
+            android:layout_width="50sp"
+            android:layout_height="50sp"
+            android:background="@drawable/ic_left_normal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+            android:src="@drawable/statistics_icon" />
+
+        <ImageView
+            android:id="@+id/settings"
+            android:layout_width="50sp"
+            android:layout_height="50sp"
+            android:background="@drawable/ic_right_normal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="8dp"
+            android:paddingTop="5dp"
+            android:src="@drawable/settings_icon" />
+
+        <TextView
+            android:id="@+id/lblProspects"
+            style="@style/large_title_text"
+            android:layout_width="0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/prospects_list" />
+
+        <ImageView
+            android:id="@+id/search"
+            android:layout_width="50sp"
+            android:layout_height="50sp"
+            android:background="@drawable/ic_left_normal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+            android:src="@drawable/search_icon" />
+
+        <ImageView
+            android:id="@+id/add_prospect"
+            android:layout_width="50sp"
+            android:layout_height="50sp"
+            android:background="@drawable/ic_right_normal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="8dp"
+            android:paddingTop="5dp"
+            android:src="@drawable/add_icon" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/stage1"
+            style="@style/stage_style"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:text="@string/stage1"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/stage2"
+            style="@style/stage_style"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:text="@string/stage2"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/stage3"
+            style="@style/stage_style"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:text="@string/stage3"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/stage4"
+            style="@style/stage_style"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:text="@string/stage4"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/stage5"
+            style="@style/stage_style"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:text="@string/stage5"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/stage6"
+            style="@style/stage_style"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:text="@string/stage6"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/followup"
+            style="@style/stage_style"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:text="@string/stage_followup"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/dead"
+            style="@style/stage_style"
+            android:layout_width="0sp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:text="@string/dead"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/txtSearch"
+        style="@style/add_prospect_textbox"
+        android:layout_width="fill_parent"
+        android:layout_height="60sp"
+        android:hint="@string/search_hint"
+        android:inputType="textPersonName"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/lvProspects"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@color/transparent" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/lblNoProspects"
+        style="@style/title_text"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:text="@string/no_prospects" />
+
+</LinearLayout>

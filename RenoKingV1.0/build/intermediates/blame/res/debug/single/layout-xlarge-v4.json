@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/prospect_detail_header.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/prospect_detail_header.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/add_prospect.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/add_prospect.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/list_prospect.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/list_prospect.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/prospect_stage_descr.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/prospect_stage_descr.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/statistics.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/statistics.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/add_comments.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/add_comments.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/comments.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/comments.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/splash.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/splash.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/prospect_inflate.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/prospect_inflate.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/layout-xlarge-v4/settings.xml",
+        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/layout-xlarge/settings.xml"
+    }
+]

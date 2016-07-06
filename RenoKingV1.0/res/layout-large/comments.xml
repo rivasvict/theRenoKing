@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:background="@drawable/top_bar"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/lblTitle"
+            style="@style/title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/notes" />
+
+        <ImageView
+            android:id="@+id/add_notes"
+            android:layout_width="35sp"
+            android:layout_height="35sp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ic_left_normal"
+            android:paddingBottom="3dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="3dp"
+            android:paddingTop="3dp"
+            android:src="@drawable/add_icon" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lvNotes"
+        android:layout_width="fill_parent"
+        android:layout_height="0sp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:cacheColorHint="@color/transparent" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/lblNoNotes"
+        style="@style/title_text"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:text="@string/no_notes" />
+
+</LinearLayout>

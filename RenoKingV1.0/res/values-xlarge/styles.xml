@@ -1,0 +1,32 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="RenoKingTheme" parent="android:Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/app_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="title_text">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/app_color</item>
+    </style>
+
+    <style name="sub_title_text">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="add_prospect_textbox">
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">8sp</item>
+        <item name="android:background">@drawable/text_box_custom</item>
+    </style>
+
+   <!--  <style name="add_prospect_textbox_orig">
+        <item name="android:textSize">15sp</item>
+        <item name="android:padding">6sp</item>
+        <item name="android:background">@drawable/text_box</item>
+    </style> -->
+
+</resources>

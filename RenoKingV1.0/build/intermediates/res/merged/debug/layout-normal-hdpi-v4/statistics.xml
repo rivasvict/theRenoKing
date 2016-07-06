@@ -1,0 +1,226 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relChart"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="40sp"
+        android:background="@drawable/top_bar"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/lblStatistics"
+            style="@style/title_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:text="@string/statistics" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp" >
+
+        <TextView
+            android:id="@+id/lblFilterTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Filters:"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/lblFilter"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/drop_down_normal"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="Select"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lnrDateRange"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/lbl"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/lblDateRange"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/drop_down_normal"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="Select"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lnrConversionRange"
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/lblFrom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="From:" />
+
+        <TextView
+            android:id="@+id/lblFromRange"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/drop_down_normal"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="Select"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/lblTo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="To:" />
+
+        <TextView
+            android:id="@+id/lblToRange"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/drop_down_normal"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="Select"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lnrGraphlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/top_bar"
+        android:gravity="center_vertical" >
+
+        <RelativeLayout
+            android:id="@+id/relGraphlayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <!--
+            <View
+                android:id="@+id/y_axis"
+                android:layout_width="4dp"
+                android:layout_height="fill_parent"
+                android:background="@color/axis_color" />
+
+            <View
+                android:id="@+id/x_axis"
+                android:layout_width="fill_parent"
+                android:layout_height="4dp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/axis_color" />
+
+            <LinearLayout
+                android:id="@+id/AddChart"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_above="@id/x_axis"
+                android:layout_toRightOf="@id/y_axis" >
+            </LinearLayout>
+            -->
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/relDefine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/img_x_axis"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/right_arrow" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/img_x_axis"
+                android:text="Stages"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/img_y_axis"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_below="@id/img_x_axis"
+                android:src="@drawable/up_arrow" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView2"
+                android:layout_centerVertical="false"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/img_y_axis"
+                android:text="Number of Prospects"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
