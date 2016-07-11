@@ -129,7 +129,9 @@ public class SplashActivity extends TheRenoKing implements ConnectionCallbacks, 
 		init();
 
 		mGoogleApiClient = buildGoogleApiClient();
-		
+
+
+
 //		if(mGoogleApiClient != null){
 //			loadProspects();
 //		}
@@ -598,6 +600,7 @@ public class SplashActivity extends TheRenoKing implements ConnectionCallbacks, 
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		// TODO Auto-generated method stub
 		super.onActivityResult(requestCode, resultCode, data);
+		Log.d("Response code", Integer.toString(requestCode));
 		if (resultCode == RESULT_OK) {
 			switch (requestCode) {
 			case GOOGLE_PLUS:
@@ -686,7 +689,7 @@ public class SplashActivity extends TheRenoKing implements ConnectionCallbacks, 
 			Log.i(TAG, "onConnected");
 //			Person currentUser = Plus.PeopleApi.getCurrentPerson(mGoogleApiClient);
 			person = Plus.AccountApi.getAccountName(mGoogleApiClient);
-			Plus.MomentsApi.load(mGoogleApiClient);
+			//Plus.MomentsApi.load(mGoogleApiClient);
 //
 //			Log.e("", "Person id: " + currentUser.getId());
 //			Log.e("", "Person name: " + currentUser.getDisplayName());

@@ -1,278 +1,346 @@
 [
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/comments_normal.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/comments_normal.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/on.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/on.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/login_normal.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/login_normal.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/stage_title_bg.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/stage_title_bg.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/drawable/common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/off.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/off.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/debug_icon.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/debug_icon.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/drop_down_normal.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/drop_down_normal.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/comments_over.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/comments_over.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/search_icon.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/search_icon.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/transbox.9.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/transbox.9.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/off.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/off.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/cal_over.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/cal_over.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/right_arrow.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/right_arrow.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/progress_custom.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/progress_custom.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/ic_left_normal.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/ic_left_normal.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/add_over.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/add_over.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/loading_bg.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/loading_bg.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/drp_normal.9.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/drp_normal.9.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/loading_1.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/loading_1.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/bg_bitmap.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/bg_bitmap.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_text_light.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/bg_bitmap.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/bg_bitmap.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/drawable/common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/main_bg.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/main_bg.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/comments_normal.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/comments_normal.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/top_bar.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/top_bar.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/down.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/down.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/text_box_custom.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/text_box_custom.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/line_sep.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/line_sep.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/add_normal.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/add_normal.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/loading_1.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/loading_1.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/debug_icon.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/debug_icon.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/ic_left_normal.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/ic_left_normal.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/splash_logo.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/splash_logo.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/login_normal.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/login_normal.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/comments_over.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/comments_over.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/ic_left_over.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/ic_left_over.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/bg_repeat.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/bg_repeat.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/app_bg.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/app_bg.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/add_icon.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/add_icon.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/drp_normal.9.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/drp_normal.9.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/statistics_icon.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/statistics_icon.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/bg_repeat.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/bg_repeat.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/up_arrow.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/up_arrow.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/login_over.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/login_over.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/text_box.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/text_box.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_icon_dark.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/ic_left_over.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/ic_left_over.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/main_bg.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/main_bg.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/splash_logo.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/splash_logo.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/drawable/common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/drop_down_over.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/drop_down_over.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/drop_down_normal.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/drop_down_normal.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/ic_right_normal.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/ic_right_normal.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/top_bar.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/top_bar.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/cal_normal.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/cal_normal.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_dark.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_icon_light.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/cal_normal.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/cal_normal.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_text_dark.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/statistics_icon.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/statistics_icon.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/transbox.9.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/transbox.9.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/login_over.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/login_over.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/line_sep.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/line_sep.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/ic_right_normal.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/ic_right_normal.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/search_icon.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/search_icon.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/debug_icon_bottom.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/debug_icon_bottom.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/add_icon.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/add_icon.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/loading_bg.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/loading_bg.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/add_normal.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/add_normal.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/down.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/down.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/save_normal.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/save_normal.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/app_bg.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/app_bg.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/ic_right_over.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/ic_right_over.png"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/save_normal.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/save_normal.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/stage_bg.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/stage_bg.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/settings_icon.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/settings_icon.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.1/res/drawable/cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/ic_right_over.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/ic_right_over.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/text_box_custom.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/text_box_custom.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/on.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/on.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/save_over.png",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/res/drawable/save_over.png"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_light.xml"
     },
     {
-        "merged": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/up_arrow.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/up_arrow.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/stage_bg.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/stage_bg.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/add_over.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/add_over.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/drop_down_over.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/drop_down_over.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/right_arrow.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/right_arrow.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/debug_icon_bottom.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/debug_icon_bottom.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/text_box.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/text_box.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/cal_over.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/cal_over.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/settings_icon.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/settings_icon.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/progress_custom.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/progress_custom.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/stage_title_bg.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/stage_title_bg.png"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/drawable/save_over.png",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/drawable/save_over.png"
     }
 ]

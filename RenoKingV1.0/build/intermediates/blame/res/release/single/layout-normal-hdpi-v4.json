@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/splash.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/splash.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/comments.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/comments.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/notes_inflate.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/notes_inflate.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/prospect_detail.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/prospect_detail.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/add_prospect.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/add_prospect.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/list_prospect.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/list_prospect.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/prospect_inflate.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/prospect_inflate.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/add_comments.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/add_comments.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/settings.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/settings.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/prospect_detail_header.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/prospect_detail_header.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/prospect_stage_descr.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/prospect_stage_descr.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/statistics.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/statistics.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/prospect_detail_list.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/prospect_detail_list.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-normal-hdpi-v4/prospect_dead.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-normal-hdpi/prospect_dead.xml"
+    }
+]

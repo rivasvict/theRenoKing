@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/settings.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/settings.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/add_prospect.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/add_prospect.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/prospect_detail_header.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/prospect_detail_header.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/prospect_stage_descr.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/prospect_stage_descr.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/statistics.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/statistics.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/prospect_detail_list.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/prospect_detail_list.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/comments.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/comments.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/splash.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/splash.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/prospect_dead.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/prospect_dead.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/prospect_inflate.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/prospect_inflate.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/list_prospect.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/list_prospect.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/add_comments.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/add_comments.xml"
+    },
+    {
+        "merged": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/release/layout-large-v4/prospect_detail.xml",
+        "source": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/res/layout-large/prospect_detail.xml"
+    }
+]

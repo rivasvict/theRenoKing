@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/res/merged/debug/values-hi/values-hi.xml",
+        "outputFile": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/res/merged/debug/values-hi/values-hi.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 448
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 553
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 660
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 745
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 847
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 969
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1059
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1168
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1270
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1368
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1478
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1578
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1693
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1818
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1924
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -330,17 +330,17 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1929,
-                    "endColumn": 164,
-                    "endOffset": 2089
+                    "endColumn": 267,
+                    "endOffset": 2192
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 680,
-                        "endColumn": 164,
-                        "endOffset": 840
+                        "startOffset": 323,
+                        "endColumn": 267,
+                        "endOffset": 586
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2094,
-                    "endColumn": 165,
-                    "endOffset": 2255
+                    "startOffset": 2197,
+                    "endColumn": 129,
+                    "endOffset": 2322
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 2670,
-                        "endColumn": 165,
-                        "endOffset": 2831
+                        "startOffset": 591,
+                        "endColumn": 129,
+                        "endOffset": 716
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2260,
-                    "endColumn": 114,
-                    "endOffset": 2370
+                    "startOffset": 2327,
+                    "endColumn": 202,
+                    "endOffset": 2525
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 2374,
-                        "endColumn": 114,
-                        "endOffset": 2484
+                        "startOffset": 721,
+                        "endColumn": 202,
+                        "endOffset": 919
                     }
                 }
             },
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2375,
-                    "endColumn": 129,
-                    "endOffset": 2500
+                    "startOffset": 2530,
+                    "endColumn": 128,
+                    "endOffset": 2654
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 2112,
-                        "endColumn": 129,
-                        "endOffset": 2237
+                        "startOffset": 924,
+                        "endColumn": 128,
+                        "endOffset": 1048
                     }
                 }
             },
@@ -405,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2505,
-                    "endColumn": 175,
-                    "endOffset": 2676
+                    "startOffset": 2659,
+                    "endColumn": 132,
+                    "endOffset": 2787
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1936,
-                        "endColumn": 175,
-                        "endOffset": 2107
+                        "startOffset": 1053,
+                        "endColumn": 132,
+                        "endOffset": 1181
                     }
                 }
             },
@@ -424,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2681,
-                    "endColumn": 127,
-                    "endOffset": 2804
+                    "startOffset": 2792,
+                    "endColumn": 213,
+                    "endOffset": 3001
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1808,
-                        "endColumn": 127,
-                        "endOffset": 1931
+                        "startOffset": 1186,
+                        "endColumn": 213,
+                        "endOffset": 1395
                     }
                 }
             },
@@ -443,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2809,
-                    "endColumn": 174,
-                    "endOffset": 2979
+                    "startOffset": 3006,
+                    "endColumn": 216,
+                    "endOffset": 3218
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1019,
-                        "endColumn": 178,
-                        "endOffset": 1193
+                        "startOffset": 1400,
+                        "endColumn": 216,
+                        "endOffset": 1612
                     }
                 }
             },
@@ -462,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2984,
-                    "endColumn": 124,
-                    "endOffset": 3104
+                    "startOffset": 3223,
+                    "endColumn": 131,
+                    "endOffset": 3350
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1683,
-                        "endColumn": 124,
-                        "endOffset": 1803
+                        "startOffset": 1617,
+                        "endColumn": 131,
+                        "endOffset": 1744
                     }
                 }
             },
@@ -481,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3109,
-                    "endColumn": 179,
-                    "endOffset": 3284
+                    "startOffset": 3355,
+                    "endColumn": 176,
+                    "endOffset": 3527
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1320,
-                        "endColumn": 179,
-                        "endOffset": 1495
+                        "startOffset": 1749,
+                        "endColumn": 176,
+                        "endOffset": 1921
                     }
                 }
             },
@@ -500,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3289,
-                    "endColumn": 182,
-                    "endOffset": 3467
+                    "startOffset": 3532,
+                    "endColumn": 119,
+                    "endOffset": 3647
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1500,
-                        "endColumn": 182,
-                        "endOffset": 1678
+                        "startOffset": 1926,
+                        "endColumn": 119,
+                        "endOffset": 2041
                     }
                 }
             },
@@ -519,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3472,
-                    "endColumn": 121,
-                    "endOffset": 3589
+                    "startOffset": 3652,
+                    "endColumn": 174,
+                    "endOffset": 3822
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1198,
-                        "endColumn": 121,
-                        "endOffset": 1315
+                        "startOffset": 2046,
+                        "endColumn": 174,
+                        "endOffset": 2216
                     }
                 }
             },
@@ -538,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3594,
-                    "endColumn": 177,
-                    "endOffset": 3767
+                    "startOffset": 3827,
+                    "endColumn": 120,
+                    "endOffset": 3943
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 3252,
-                        "endColumn": 177,
-                        "endOffset": 3425
+                        "startOffset": 2221,
+                        "endColumn": 120,
+                        "endOffset": 2337
                     }
                 }
             },
@@ -557,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3772,
-                    "endColumn": 119,
-                    "endOffset": 3887
+                    "startOffset": 3948,
+                    "endColumn": 130,
+                    "endOffset": 4074
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 3132,
-                        "endColumn": 119,
-                        "endOffset": 3247
+                        "startOffset": 2342,
+                        "endColumn": 130,
+                        "endOffset": 2468
                     }
                 }
             },
@@ -576,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3892,
-                    "endColumn": 173,
-                    "endOffset": 4061
+                    "startOffset": 4079,
+                    "endColumn": 184,
+                    "endOffset": 4259
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 845,
-                        "endColumn": 173,
-                        "endOffset": 1014
+                        "startOffset": 2473,
+                        "endColumn": 184,
+                        "endOffset": 2653
                     }
                 }
             },
@@ -595,18 +595,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 4066,
-                    "endColumn": 174,
-                    "endOffset": 4236
+                    "startOffset": 4264,
+                    "endColumn": 151,
+                    "endOffset": 4411
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2957,
-                        "endColumn": 174,
-                        "endOffset": 3127
+                        "startOffset": 2658,
+                        "endColumn": 151,
+                        "endOffset": 2805
                     }
                 }
             },
@@ -614,18 +614,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4241,
-                    "endColumn": 120,
-                    "endOffset": 4357
+                    "startOffset": 4416,
+                    "endColumn": 181,
+                    "endOffset": 4593
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2836,
-                        "endColumn": 120,
-                        "endOffset": 2952
+                        "startOffset": 2810,
+                        "endColumn": 181,
+                        "endOffset": 2987
                     }
                 }
             },
@@ -633,18 +633,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4362,
-                    "endColumn": 192,
-                    "endOffset": 4550
+                    "startOffset": 4598,
+                    "endColumn": 131,
+                    "endOffset": 4725
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 302,
-                        "endColumn": 192,
-                        "endOffset": 490
+                        "startOffset": 2992,
+                        "endColumn": 131,
+                        "endOffset": 3119
                     }
                 }
             },
@@ -652,18 +652,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4555,
-                    "endColumn": 184,
-                    "endOffset": 4735
+                    "startOffset": 4730,
+                    "endColumn": 178,
+                    "endOffset": 4904
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 495,
-                        "endColumn": 184,
-                        "endOffset": 675
+                        "startOffset": 3124,
+                        "endColumn": 178,
+                        "endOffset": 3298
                     }
                 }
             },
@@ -671,18 +671,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4740,
-                    "endColumn": 131,
-                    "endOffset": 4867
+                    "startOffset": 4909,
+                    "endColumn": 127,
+                    "endOffset": 5032
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 131,
-                        "endOffset": 297
+                        "startOffset": 3303,
+                        "endColumn": 127,
+                        "endOffset": 3426
                     }
                 }
             },
@@ -690,18 +690,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 4872,
-                    "endColumn": 178,
-                    "endOffset": 5046
+                    "startOffset": 5037,
+                    "endColumn": 243,
+                    "endOffset": 5276
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 4724,
-                        "endColumn": 178,
-                        "endOffset": 4898
+                        "startOffset": 325,
+                        "endColumn": 243,
+                        "endOffset": 564
                     }
                 }
             },
@@ -709,18 +709,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 5051,
-                    "endColumn": 127,
-                    "endOffset": 5174
+                    "startOffset": 5281,
+                    "endColumn": 250,
+                    "endOffset": 5527
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 4596,
-                        "endColumn": 127,
-                        "endOffset": 4719
+                        "startOffset": 3431,
+                        "endColumn": 250,
+                        "endOffset": 3677
                     }
                 }
             },
@@ -728,18 +728,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5179,
-                    "endColumn": 140,
-                    "endOffset": 5315
+                    "startOffset": 5532,
+                    "endColumn": 121,
+                    "endOffset": 5649
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 3430,
-                        "endColumn": 140,
-                        "endOffset": 3566
+                        "startOffset": 3682,
+                        "endColumn": 121,
+                        "endOffset": 3799
                     }
                 }
             },
@@ -747,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5320,
-                    "endColumn": 243,
-                    "endOffset": 5559
+                    "startOffset": 5654,
+                    "endColumn": 110,
+                    "endOffset": 5760
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 3694,
-                        "endColumn": 243,
-                        "endOffset": 3933
+                        "startOffset": 3804,
+                        "endColumn": 110,
+                        "endOffset": 3910
                     }
                 }
             },
@@ -766,18 +766,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 5564,
-                    "endColumn": 122,
-                    "endOffset": 5682
+                    "startOffset": 5765,
+                    "endColumn": 196,
+                    "endOffset": 5957
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 3571,
-                        "endColumn": 122,
-                        "endOffset": 3689
+                        "startOffset": 3915,
+                        "endColumn": 196,
+                        "endOffset": 4107
                     }
                 }
             },
@@ -785,18 +785,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5687,
-                    "endColumn": 115,
-                    "endOffset": 5798
+                    "startOffset": 5962,
+                    "endColumn": 131,
+                    "endOffset": 6089
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 3938,
-                        "endColumn": 115,
-                        "endOffset": 4049
+                        "startOffset": 4112,
+                        "endColumn": 131,
+                        "endOffset": 4239
                     }
                 }
             },
@@ -804,18 +804,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 5803,
-                    "endColumn": 180,
-                    "endOffset": 5979
+                    "startOffset": 6094,
+                    "endColumn": 207,
+                    "endOffset": 6297
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 2489,
-                        "endColumn": 180,
-                        "endOffset": 2665
+                        "startOffset": 4244,
+                        "endColumn": 207,
+                        "endOffset": 4447
                     }
                 }
             },
@@ -823,18 +823,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 5984,
-                    "endColumn": 131,
-                    "endOffset": 6111
+                    "startOffset": 6302,
+                    "endColumn": 136,
+                    "endOffset": 6434
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 2242,
-                        "endColumn": 131,
-                        "endOffset": 2369
+                        "startOffset": 4452,
+                        "endColumn": 136,
+                        "endOffset": 4584
                     }
                 }
             },
@@ -842,18 +842,18 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6116,
-                    "endColumn": 91,
-                    "endOffset": 6203
+                    "startOffset": 6439,
+                    "endColumn": 183,
+                    "endOffset": 6618
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 4261,
-                        "endColumn": 91,
-                        "endOffset": 4348
+                        "startOffset": 4589,
+                        "endColumn": 183,
+                        "endOffset": 4768
                     }
                 }
             },
@@ -861,18 +861,18 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6208,
-                    "endColumn": 95,
-                    "endOffset": 6299
+                    "startOffset": 6623,
+                    "endColumn": 92,
+                    "endOffset": 6711
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 4054,
-                        "endColumn": 95,
-                        "endOffset": 4145
+                        "startOffset": 4773,
+                        "endColumn": 92,
+                        "endOffset": 4861
                     }
                 }
             },
@@ -880,18 +880,18 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 6304,
-                    "endColumn": 110,
-                    "endOffset": 6410
+                    "startOffset": 6716,
+                    "endColumn": 95,
+                    "endOffset": 6807
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 4150,
-                        "endColumn": 110,
-                        "endOffset": 4256
+                        "startOffset": 4866,
+                        "endColumn": 95,
+                        "endOffset": 4957
                     }
                 }
             },
@@ -899,18 +899,18 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 6415,
-                    "endColumn": 242,
-                    "endOffset": 6653
+                    "startOffset": 6812,
+                    "endColumn": 113,
+                    "endOffset": 6921
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/values-hi/common_strings.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/res/values-hi/values.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 4353,
-                        "endColumn": 242,
-                        "endOffset": 4591
+                        "startOffset": 4962,
+                        "endColumn": 113,
+                        "endOffset": 5071
                     }
                 }
             },
@@ -918,12 +918,259 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 6658,
-                    "endColumn": 100,
-                    "endOffset": 6754
+                    "startOffset": 6926,
+                    "endColumn": 110,
+                    "endOffset": 7032
                 },
                 "from": {
-                    "file": "/Users/marcosmorales/Android Studio Projects/RenoKingSource/TheRenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 110,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 7037,
+                    "endColumn": 115,
+                    "endOffset": 7148
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 115,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 7153,
+                    "endColumn": 108,
+                    "endOffset": 7257
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 108,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 7262,
+                    "endColumn": 109,
+                    "endOffset": 7367
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 109,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7372,
+                    "endColumn": 126,
+                    "endOffset": 7494
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 126,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7499,
+                    "endColumn": 95,
+                    "endOffset": 7590
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 851,
+                        "endColumn": 95,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7595,
+                    "endColumn": 94,
+                    "endOffset": 7685
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 94,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7690,
+                    "endColumn": 116,
+                    "endOffset": 7802
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 116,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 7807,
+                    "endColumn": 108,
+                    "endOffset": 7911
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 108,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7916,
+                    "endColumn": 85,
+                    "endOffset": 7997
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 85,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 8002,
+                    "endColumn": 92,
+                    "endOffset": 8090
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-hi/values-hi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1354,
+                        "endColumn": 92,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 8095,
+                    "endColumn": 103,
+                    "endOffset": 8194
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.1/res/values-hi/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 103,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 8199,
+                    "endColumn": 94,
+                    "endOffset": 8289
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.1/res/values-hi/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endColumn": 94,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 8294,
+                    "endColumn": 100,
+                    "endOffset": 8390
+                },
+                "from": {
+                    "file": "/Users/marcosmorales/theRenoKing/RenoKingV1.0/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
